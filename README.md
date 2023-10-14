@@ -1,7 +1,7 @@
 <div align= >
    
 
-# <img align=center width=75px height=90px src="https://media3.giphy.com/media/5jh3rt2jAi9KMPSh9W/giphy.gif?cid=ecf05e47p22ox1l0buvbu0b6ar5jyqya29yf216tjk429wyp&rid=giphy.gif&ct=s"> MP Processor Game
+# 🤖 MP Processor Game
 
 
 </div>
@@ -13,7 +13,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -23,8 +23,9 @@
 - <a href ="#Contributors"> ✨ Contributors</a> 
 - <a href ="#License"> 🔒 License</a> 
 <hr style="background-color: #4b4c60"></hr>
+<a id = "about"></a>
 
-## <img align="center"  width =60px  height =70px src="https://media2.giphy.com/media/Yn4nioYWSZMqiPNVuD/giphy.gif?cid=ecf05e47m5h78yoqhdkg8pq54o5qsxhdoltjxyfe08d4vxvg&rid=giphy.gif&ct=s"> Overview <a id = "about"></a>
+## 📙 Overview 
 
 <ul> 
 <li>
@@ -38,8 +39,9 @@ This is an assembly language project.
 </li>
 </ul>
 <hr style="background-color: #4b4c60"></hr>
+<a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started <a id = "Started"></a>
+## 🚀 Get Started 
 
 <ol>
 <li>Clone the repository
@@ -87,10 +89,9 @@ game
 </li>
 </ol>
 <hr style="background-color: #4b4c60"></hr>
+<a id ="Path"></a>
 
-
-## <img align= "center" width=80px height=80px src="https://media2.giphy.com/media/dAu3qBzpmXstCTimDv/giphy.gif?cid=ecf05e475rq4hwxg7usfm1go2dc1pl5gpbnvo1izu6ph4yuh&rid=giphy.gif&ct=s"> Path of the program <a id ="Path"></a>
-
+## 🗺️ Path of the program 
 <table>
   <thead >
          <th style="text-align: center;">Player 1</th>
@@ -122,7 +123,7 @@ game
   </tr>
   </table>
 
-  ### <img align= "center" width=50px height=50px src="https://media2.giphy.com/media/G9iNGjpV4sD4O6o778/giphy.gif?cid=ecf05e47qb9kis3brwka2jbzoh4m8ch2ovpeshjzaiznzyqt&rid=giphy.gif&ct=s"> Chatting
+  ### 💬 Chatting
 <table>
   <a id="chatting"></a> </a>
   <tr>
@@ -135,7 +136,7 @@ game
 </table>
   <table>
 
- ### <img align= "center" width=50px height=50px src="https://media0.giphy.com/media/ZZlFeURejAu7o0esKN/giphy.gif?cid=ecf05e47o6pup8tjgb8lpuqopr4x8e8cdyhvz9fggbakyryj&rid=giphy.gif&ct=s"> Game
+ ### 🕹️ Game
   <a id="game"> </a>
   <tr>
      <td align="center">3. Choose level 1 or 2 (if you the sender)</td>
@@ -211,7 +212,7 @@ game
 </table>
 <hr style="background-color: #4b4c60"></hr>
 
-### <img align= "center" width=50px height=60px src="https://media2.giphy.com/media/8pEnqbR2gapFekW4KK/giphy.gif?cid=ecf05e47ire2dp6wrcli5orn0gddraxve7sug4v3753pquxa&rid=giphy.gif&ct=s"> Notes
+### 📜 Notes
 <ol>
 <li>
 You should press enter in every screen to go forward and you will wait oppment to press enter.
@@ -236,14 +237,16 @@ In the gun, if you hit
 </ol>
 
 <hr style="background-color: #4b4c60"></hr>
+<a id ="Video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063">  GIF Demo <a id ="Video"></a>
+## 🎥  GIF Demo 
 
 <img src="https://user-images.githubusercontent.com/71986226/177061002-d93b2d8b-831f-4eac-8538-5f9719a30fb3.gif" width="500px;"/>
 
 <hr style="background-color: #4b4c60"></hr>
-
-## <img align= center width=60px height=60px src="https://media1.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47faatmwdhcst7c2d4eontr459hjd35zf3an324elo&rid=giphy.gif&ct=s"> File Structure <a id="Structure"> </a>
+ <a id="Structure"> </a>
+ 
+## 🗃️ File Structure
 
 ```
 MP-Processor-Game
@@ -285,8 +288,9 @@ MP-Processor-Game
 ```
 
 <hr style="background-color: #4b4c60"></hr>
-
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
+ <a id ="Contributors"></a>
+ 
+## 👑 Contributors
 
 <table align="center" >
   <tr>
@@ -298,7 +302,8 @@ MP-Processor-Game
      <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
-
-## License <a id ="License"></a>
+ <a id ="License"></a>
+ 
+## 🔐 License
 
 > This software is licensed under MIT License, See [License](https://github.com/AdhamAliAbdelAal/MP-Processor-Game/blob/master/LICENSE) for more information ©AdhamAliAbdelAal.
